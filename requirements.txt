@@ -1,0 +1,16 @@
+aniso8601==9.0.1
+click @ file:///Users/runner/miniforge3/conda-bld/click_1651215239605/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1660054669620/work
+Flask-RESTful==0.3.9
+gunicorn==20.1.0
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1653252869256/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1648737588665/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1660673193545/work
+pandas==1.4.4
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz==2022.2.1
+six==1.16.0
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1660053523487/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1659400682470/work
