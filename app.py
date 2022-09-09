@@ -14,3 +14,5 @@ api.add_resource(Locations, '/locations')  # and '/locations' is our entry point
 
 if __name__ == '__main__':
     app.run()  # run our Flask app
+    
+app.run()
